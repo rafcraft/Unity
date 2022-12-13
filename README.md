@@ -2,4 +2,5 @@
 Paweł Mikolik
 Nr albumu: 158946
 
-Kod znajduje się w Branchu "Master"
+Projekt Gry znajduje się w branchu main
+Laby jakie zostały zrobione zostały są w branchu Master
